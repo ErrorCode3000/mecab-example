@@ -20,3 +20,6 @@ bundle install
 $ ruby web.rb -p 3000
 $ curl http://localhost:3000/?sentence=せんだみつおなはなは
 ```
+
+BUILDPACK_URL=https://github.com/hanachin/heroku-buildpack-mecab.git
+LD_LIBRARY_PATH=/app/vendor/mecab/lib
