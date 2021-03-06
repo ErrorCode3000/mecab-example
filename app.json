@@ -4,8 +4,8 @@
     "mecab",
     "example"
   ],
-  "website": "https://github.com/hanachin/mecab-example/",
-  "repository": "https://github.com/hanachin/mecab-example",
+  "website": "https://github.com/ErrorCode3000/mecab-example/",
+  "repository": "https://github.com/ErrorCode3000/mecab-example",
   "success_url": "/?sentence=こんにちは世界",
   "env": {
     "BUILDPACK_URL": "https://github.com/hanachin/heroku-buildpack-mecab.git",
